@@ -9,11 +9,19 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-	<img width="70%" src="./twibon-banner.png"></img>
         <h1>
-	ツイ盆展始まります！
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	いよいよ<strong>ツイ盆展</strong>始まります！
 	</h1>
-	こちらは<strong>ツイ盆展</strong>のサイトです。
+	<h2>
+	"だれでも気軽に出展できる"、そんな展示会を目指して作られた<br/>
+	Twitter盆栽展、略して「ツイ盆展」のページです。
+	<br/>
+	</h2>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
@@ -25,12 +33,14 @@ const Hero = props => {
           align-items: center;
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
-          background-size: cover;
+          background-size: 60%;
+          background-position: center top;
+          background-repeat: no-repeat;
           color: ${theme.text.color.primary.inverse};
           display: flex;
           flex-flow: column nowrap;
-          justify-content: center;
-          min-height: 100vh;
+          justify-content: flex-start;
+          min-height: 110vh;
           height: 100px;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
