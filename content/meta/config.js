@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "ツイ盆展",
-  headerSubTitle: "ツイッター盆栽展",
+  headerSubTitle: "誰でも楽しめる盆栽展",
 
   /* manifest.json */
   manifestName: "ツイ盆展 - Twitter Bonsai Exhibition",
