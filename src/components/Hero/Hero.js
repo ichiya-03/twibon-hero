@@ -9,12 +9,9 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
+      </section>
+        <p align="center">
         <h1>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
-	<br/>
 	いよいよ<strong>ツイ盆展</strong>始まります！
 	</h1>
 	<h2>
@@ -25,7 +22,7 @@ const Hero = props => {
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
-      </section>
+	</p>
 
       {/* --- STYLES --- */}
       <style jsx>{`
@@ -33,22 +30,23 @@ const Hero = props => {
           align-items: center;
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
-          background-size: 60%;
-          background-position: center top;
+          background-size: 100%;
+          background-position: center;
           background-repeat: no-repeat;
           color: ${theme.text.color.primary.inverse};
           display: flex;
           flex-flow: column nowrap;
           justify-content: flex-start;
-          min-height: 110vh;
-          height: 100px;
+          min-height: 300px;
+          height: 100vh;
           padding: ${theme.space.inset.l};
           padding-top: ${theme.header.height.homepage};
         }
 
         h1 {
           text-align: center;
-          font-size: ${theme.hero.h1.size};
+          font-size: ${theme.font.size.ll};
+//          font-size: ${theme.hero.h1.size};
           margin: ${theme.space.stack.l};
           color: ${theme.hero.h1.color};
           line-height: ${theme.hero.h1.lineHeight};
