@@ -9,10 +9,11 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
+	<img width="70%" src="./twibon-banner.png"></img>
         <h1>
 	ツイ盆展始まります！
+	</h1>
 	こちらは<strong>ツイ盆展</strong>のサイトです。
-        </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>

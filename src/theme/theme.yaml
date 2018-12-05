@@ -134,7 +134,7 @@ icon:
 hero:
   h1:
     size: *font-size-xxl
-    color: *color-white
+    color: *color-brand-primary
     lineHeight: *font-line-height-xs
   background: 'linear-gradient(0deg, #E0306E, #6438B5)'
 blog:
