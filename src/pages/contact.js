@@ -9,11 +9,6 @@ import Seo from "../components/Seo";
 
 const ContactPage = props => {
   const {
-    data: {
-      site: {
-        siteMetadata: { facebook }
-      }
-    }
   } = props;
 
   return (
@@ -28,8 +23,6 @@ const ContactPage = props => {
           </Article>
         )}
       </ThemeContext.Consumer>
-
-      <Seo facebook={facebook} />
     </React.Fragment>
   );
 };
@@ -40,15 +33,3 @@ ContactPage.propTypes = {
 
 export default ContactPage;
 
-//eslint-disable-next-line no-undef
-export const query = graphql`
-  query ContactQuery {
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
-      }
-    }
-  }
-`;

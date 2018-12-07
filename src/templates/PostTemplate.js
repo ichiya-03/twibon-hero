@@ -13,9 +13,6 @@ const PostTemplate = props => {
     data: {
       post,
       authornote: { html: authorNote },
-      site: {
-        siteMetadata: { facebook }
-      }
     },
     pageContext: { next, prev }
   } = props;
@@ -30,14 +27,11 @@ const PostTemplate = props => {
               next={next}
               prev={prev}
               authornote={authorNote}
-              facebook={facebook}
               theme={theme}
             />
           </Article>
         )}
       </ThemeContext.Consumer>
-
-      <Seo data={post} facebook={facebook} />
     </React.Fragment>
   );
 };
@@ -75,13 +69,6 @@ export const postQuery = graphql`
     authornote: markdownRemark(fileAbsolutePath: { regex: "/author/" }) {
       id
       html
-    }
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
-      }
     }
   }
 `;

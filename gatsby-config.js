@@ -36,9 +36,6 @@ module.exports = {
     title: config.siteTitle,
     description: config.siteDescription,
     siteUrl: config.siteUrl,
-    facebook: {
-      appId: process.env.FB_APP_ID ? process.env.FB_APP_ID : ""
-    }
   },
   plugins: [
     `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
@@ -124,6 +121,7 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-twitter`,
     `gatsby-plugin-catch-links`,
     {
       resolve: `gatsby-plugin-manifest`,

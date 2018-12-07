@@ -27,7 +27,6 @@ const Post = props => {
       frontmatter: { title, author, category }
     },
     authornote,
-    facebook,
     next: nextPost,
     prev: prevPost,
     theme
@@ -44,7 +43,6 @@ const Post = props => {
         <Share post={post} theme={theme} />
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
-        <Comments slug={slug} facebook={facebook} theme={theme} />
       </footer>
     </React.Fragment>
   );
@@ -53,7 +51,6 @@ const Post = props => {
 Post.propTypes = {
   post: PropTypes.object.isRequired,
   authornote: PropTypes.string.isRequired,
-  facebook: PropTypes.object.isRequired,
   next: PropTypes.object,
   prev: PropTypes.object,
   theme: PropTypes.object.isRequired

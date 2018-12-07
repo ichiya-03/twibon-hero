@@ -10,9 +10,6 @@ const PageTemplate = props => {
   const {
     data: {
       page,
-      site: {
-        siteMetadata: { facebook }
-      }
     }
   } = props;
 
@@ -25,8 +22,6 @@ const PageTemplate = props => {
           </Article>
         )}
       </ThemeContext.Consumer>
-
-      <Seo data={page} facebook={facebook} />
     </React.Fragment>
   );
 };
@@ -45,13 +40,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-      }
-    }
-    site {
-      siteMetadata {
-        facebook {
-          appId
-        }
       }
     }
   }

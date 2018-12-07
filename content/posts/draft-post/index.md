@@ -1,24 +1,21 @@
 ---
-title: This is a draft post
-category: "sayings"
+title: 第１回展示会の席飾り
+category: tenji
 cover: photo-1490474418585-ba9bad8fd0ea.jpg
-author: greg lobinski
+author: twibonten
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+第１回展示会の席飾り
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+---
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">出猩々も紅葉してきました。カエデと見間違えるような、３裂の葉がいくつかあります。<br><br>入手後大していじらずに来た素材ですが、来春は取り木をかけようかと。<a href="https://twitter.com/hashtag/%E7%9B%86%E6%A0%BD?src=hash&amp;ref_src=twsrc%5Etfw">#盆栽</a> <a href="https://twitter.com/hashtag/bonsai?src=hash&amp;ref_src=twsrc%5Etfw">#bonsai</a> <a href="https://t.co/VFbNH67zRY">https://t.co/VFbNH67zRY</a> <a href="https://t.co/aZ2fXdcQH0">pic.twitter.com/aZ2fXdcQH0</a></p>&mdash; fujimax -盆栽HACKS- (@fujimax6) <a href="https://twitter.com/fujimax6/status/1069246997964775434?ref_src=twsrc%5Etfw">2018年12月2日</a></blockquote>
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+---
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">講師の方のサツキ。<br><br>写真に撮って残してあるのだそうです。<a href="https://twitter.com/hashtag/%E7%9B%86%E6%A0%BD?src=hash&amp;ref_src=twsrc%5Etfw">#盆栽</a> <a href="https://twitter.com/hashtag/%E5%B0%8F%E9%89%A2%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#小鉢会</a> <a href="https://t.co/5N1LvGWVoJ">https://t.co/5N1LvGWVoJ</a> <a href="https://t.co/FjUWv5oAqm">pic.twitter.com/FjUWv5oAqm</a></p>&mdash; fujimax -盆栽HACKS- (@fujimax6) <a href="https://twitter.com/fujimax6/status/1069186555997286400?ref_src=twsrc%5Etfw">2018年12月2日</a></blockquote>
 
-### Cras semper consectetur elementum
+---
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">紅紫檀も白紫檀もあまり紅葉、落葉しないので我が家で最も北風があたる場所に設置。大分葉が落とせたがはたして寒樹に赤い実を付けた状態を楽しませてもらえるだろうか？<a href="https://twitter.com/hashtag/%E7%9B%86%E6%A0%BD?src=hash&amp;ref_src=twsrc%5Etfw">#盆栽</a> <a href="https://twitter.com/hashtag/bonsai?src=hash&amp;ref_src=twsrc%5Etfw">#bonsai</a> <a href="https://t.co/ryiqxrZoFr">pic.twitter.com/ryiqxrZoFr</a></p>&mdash; ichiya/falz (@falz_jp) <a href="https://twitter.com/falz_jp/status/1070519588855603201?ref_src=twsrc%5Etfw">2018年12月6日</a></blockquote>
 
-![unsplash.com](./photo-1490474418585-ba9bad8fd0ea.jpg)
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
