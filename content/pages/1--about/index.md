@@ -17,7 +17,9 @@ title: ツイ盆展について
 
 ---
 
-**fujimax -盆栽HACKS-** [@fujimax6](https://twitter.com/fujimax6)
+**fujimax -盆栽HACKS-** 
+[@fujimax6](https://twitter.com/fujimax6)
+[HP](https://bonsaihacks.tk)
 ![fujimax6.png](./fujimax6.png)
 
 ちいさな自宅の庭で３００鉢の小品盆栽/ミニ盆栽を育てる盆栽歴３年目です。
@@ -28,6 +30,7 @@ Twitter上で盆栽を趣味とする人たちとつながり、Twitter上でも
 ---
 
 **百万@盆栽エッセイ漫画連載中** [@hyakumanga](https://twitter.com/hyakumanga)
+[HP](http://hyakumanga.com)
 ![hyakuman.png](./hyakuman.png)
 
 大宮盆栽村在住の漫画家。
