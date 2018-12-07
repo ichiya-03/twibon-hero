@@ -1,5 +1,4 @@
 ---
 title: author
 ---
-
-twibontenの中の人が執筆しています。
+[twibonten](https://twitter.com/twibonten)
