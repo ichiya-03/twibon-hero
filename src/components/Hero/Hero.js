@@ -11,7 +11,7 @@ const Hero = props => {
       <section className="hero">
       </section>
       <div align="center">
-        <h1>全く新しい盆栽展がはじまります</h1>
+        <h1>ちょっと新しくとても楽しい盆栽展</h1>
 	<h2>"だれでも気軽に出展できる"、そんな展示会を目指して作られたTwitter盆栽展、略して「ツイ盆展」のページです。</h2>
 	<br/>
         <button onClick={scrollToContent} aria-label="scroll">
